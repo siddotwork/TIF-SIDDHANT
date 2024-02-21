@@ -1,0 +1,23 @@
+{
+  "name": "itf-assignmnet",
+  "version": "1.0.0",
+  "description": "You run a SaaS Platform that enables user to make their communities and add members to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddhant Ganesh Mohite",
+  "license": "ISC",
+  "dependencies": {
+    "@theinternetfolks/snowflake": "^1.3.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.3",
+    "randomstring": "^1.3.0",
+    "slug": "^8.2.3",
+    "validator": "^13.11.0"
+  }
+}
